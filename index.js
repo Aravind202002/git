@@ -1,1 +1,4 @@
-console.log("welcome here we are going to learn the git and github detail")
+console.log("welcome to world of GBU mamey ");
+for (var i=0;i<=5;i++){
+    console.log("GBU mamey");
+}
